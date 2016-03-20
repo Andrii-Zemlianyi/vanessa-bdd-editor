@@ -17,6 +17,14 @@
 
 https://github.com/silverbulleters/vanessa-bdd-editor/milestones
 
+## Совместимость
+
+Vanessa-BDD-Editor с:
+
+* 1С:Предприятие 8 для Windows
+* 1C:Предприятие 8 для Linux
+
+Поддержка 1С:Предприятия 8 для OS X будет реализована в ближайшее время
 
 ## Документация
 
