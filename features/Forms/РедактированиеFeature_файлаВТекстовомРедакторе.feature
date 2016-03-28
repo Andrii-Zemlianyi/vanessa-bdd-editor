@@ -1,6 +1,9 @@
 ﻿#encoding: utf-8
 #language: ru
 
+@IgnoreOnLinux
+@IgnoreOnOFBuilds
+
 Функционал: Редактирование feature-файла в текстовом редакторе                                                                                            
 	Как пользователь BDD-Editor                                                                                                                           
 	Я хочу редактировать текст в форме текстового документа                                                                                               

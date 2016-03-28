@@ -1,6 +1,9 @@
 ﻿#encoding: utf-8
 #language: ru
 
+@IgnoreOnLinux
+@IgnoreOnOFBuilds
+
 Функционал: Проверка заполненности инструментов                                                                                                           
 	Как пользователь BDD-Editor                                                                                                                           
 	Я хочу перед работой проверить заполненность инструментов                                                                                             

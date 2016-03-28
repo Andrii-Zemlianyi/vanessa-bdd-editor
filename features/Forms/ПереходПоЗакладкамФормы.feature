@@ -1,6 +1,9 @@
 ﻿#encoding: utf-8
 #language: ru
 
+@IgnoreOnLinux
+@IgnoreOnOFBuilds
+
 Функционал: Переход по закладкам формы                                                                                                                    
 	Как пользователь BDD-Editor                                                                                                                           
 	Я хочу переходить по закладкам                                                                                                                        

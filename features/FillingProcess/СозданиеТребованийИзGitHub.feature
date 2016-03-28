@@ -1,6 +1,9 @@
 ﻿#encoding: utf-8
 #language: ru
 
+@IgnoreOnLinux
+@IgnoreOnOFBuilds
+
 Функционал: Создание требований из GitHub
 Как Системный аналитик
 Я хочу Обрабатывать вбросы заказчика в требования в отдельной форме по формату Example mapping

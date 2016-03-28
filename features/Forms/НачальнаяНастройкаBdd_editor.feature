@@ -1,6 +1,9 @@
 ﻿#encoding: utf-8
 #language: ru
 
+@IgnoreOnLinux
+@IgnoreOnOFBuilds
+
 Функционал: Начальная настройка bdd-editor                                                                                                                
 	Как пользователь BDD-Editor                                                                                                                           
 	Я хочу При первичном открытии обработки настроить пути в инструментам                                                                                 
