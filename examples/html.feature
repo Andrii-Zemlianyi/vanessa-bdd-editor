@@ -13,6 +13,7 @@
 	|	Услуга1			|	1			|	5000	|
 	|	Услуга2			|	10			|	6000	|
 	И отобразилось изображение
-	![](D:\xDD\Rep\vanessa-bdd-editor-fork\examples\pict1.png)
+	![](pict1.png) 
 	И отобразилась ссылка
-	[]()
+	[silverbulleters](http://new.silverbulleters.org/)
+	
