@@ -182,7 +182,7 @@
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},3,3},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{28,
 {371,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -227,7 +227,7 @@
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},1,0,1,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,1,0},1,0,1,
 {10,
 {374,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,0,0,"ГруппаСтруктурыРасширеннаяПодсказка",
 {1,0},
@@ -935,7 +935,7 @@
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},3,3},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{28,
 {470,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -982,7 +982,7 @@
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},1,0,1,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,1,0},1,0,1,
 {10,
 {469,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,0,0,"ГруппаСозданияИмениРасширеннаяПодсказка",
 {1,0},
@@ -2249,7 +2249,7 @@
 {1,0,
 {0}
 },1,a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{28,
 {457,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -2296,7 +2296,7 @@
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},1,0,1,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},1,0,1,
 {10,
 {502,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,0,0,"ГруппаКнопокВводаРасширеннаяПодсказка",
 {1,0},
@@ -2723,11 +2723,18 @@ TkSuQmCC}
 },
 {7,3,0,1,100},
 {0,0,0},1,
-{6,
+{7,
 {4,0,
 {0},"",-1,-1,1,0,""},
-{0},2,3},6,a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{0},2,3,0,0,
+{3,4,
+{0}
+},
+{3,4,
+{0}
+}
+},6,a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
 {747,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -2796,8 +2803,8 @@ SUVORK5CYII=}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
 {751,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -2861,8 +2868,8 @@ HOCHmgL8L5EXS+d81uVOAAAAAElFTkSuQmCC}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
 {753,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -3014,8 +3021,8 @@ tE1ejYGAElSsS9Qtq/HKQKXyHfV66r8DAEsJO/gwahTHAAAAAElFTkSuQmCC}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
 {755,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -3079,8 +3086,8 @@ ahHiOioxHGdTOh6kqYSE3pTYh5VI4jQF4ZjzoxSN9XVCEmPOxR+v0dhbhCz/AGMH
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
 {757,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -3190,8 +3197,8 @@ aLKFN+0+xkLi/w9lC8VmDQCRAAAAAElFTkSuQmCC}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
 {749,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -3280,7 +3287,7 @@ SUVORK5CYII=}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},1,0,1,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},1,0,1,
 {10,
 {746,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,0,0,"ГруппаИсточникиВбросовРасширеннаяПодсказка",
 {1,0},
@@ -3469,7 +3476,7 @@ SUVORK5CYII=}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},3,3},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{28,
 {455,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -3516,7 +3523,7 @@ SUVORK5CYII=}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},1,0,1,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,1,0},1,0,1,
 {10,
 {573,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,0,0,"ГруппаВыбораКаталогаФичейРасширеннаяПодсказка",
 {1,0},
@@ -5083,7 +5090,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 {7,3,0,1,100},
 {0,0,0},1,
 {1,1},1,a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{28,
 {765,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -5130,7 +5137,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},1,0,0,0,3,3},1,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},1,0,0,0,3,3},1,
 {21,
 {681,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,0,9,"ИсходныеВбросыКоманднаяПанель",
 {1,0},
@@ -5868,7 +5875,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 {1,0,
 {0}
 },3,a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{28,
 {461,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -5913,8 +5920,8 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
 {453,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -5961,8 +5968,8 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
 {463,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -6007,7 +6014,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},1,0,1,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},1,0,1,
 {10,
 {452,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,0,0,"ГруппаКнопокОбработкиТребованийРасширеннаяПодсказка",
 {1,0},
@@ -6174,7 +6181,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 {7,3,0,1,100},
 {0,0,0},1,
 {0,0,1},2,a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{28,
 {125,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -6221,8 +6228,8 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
 {205,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -6267,7 +6274,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},1,0,0,0,3,3},1,cd5394d0-7dda-4b56-8927-93ccbe967a01,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},1,0,0,0,3,3},1,cd5394d0-7dda-4b56-8927-93ccbe967a01,
 {21,
 {304,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
 {0,
@@ -7909,7 +7916,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 {7,3,0,1,100},
 {0,0,0},1,
 {0,0,1},4,a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{28,
 {339,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -7956,8 +7963,8 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
 {377,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -8002,8 +8009,8 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
 {375,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -8048,7 +8055,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},cd5394d0-7dda-4b56-8927-93ccbe967a01,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},cd5394d0-7dda-4b56-8927-93ccbe967a01,
 {21,
 {568,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
 {0,
@@ -8066,9 +8073,9 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },
 {7,3,0,1,100},
 {0,0,0},1,
-{1,
-{0},2},1,a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{2,
+{0},2,0},1,a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
 {566,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -8113,7 +8120,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},1,2,1,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},1,2,1,
 {10,
 {569,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,0,0,"ОбъемПроектаГруппаВБРасширеннаяПодсказка",
 {1,0},
@@ -8965,11 +8972,18 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },
 {7,3,0,1,100},
 {0,0,0},1,
-{6,
+{7,
 {4,0,
 {0},"",-1,-1,1,0,""},
-{0},2,3},5,a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{0},2,3,0,0,
+{3,4,
+{0}
+},
+{3,4,
+{0}
+}
+},5,a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
 {599,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -9016,8 +9030,8 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
 {601,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -9064,8 +9078,8 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
 {603,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -9112,8 +9126,8 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
 {605,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -9160,8 +9174,8 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
 {732,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -9208,7 +9222,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},1,0,1,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},1,0,1,
 {10,
 {598,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,0,0,"ГруппаКнопокГИТРасширеннаяПодсказка",
 {1,0},
@@ -9462,7 +9476,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 {7,3,0,1,100},
 {0,0,0},1,
 {1,1},2,a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{28,
 {651,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -9509,8 +9523,8 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
 {739,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -9555,7 +9569,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},1,0,0,0,3,3},1,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},1,0,0,0,3,3},1,
 {21,
 {616,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,0,9,"ТабличныеДанныеГИТКоманднаяПанель",
 {1,0},
@@ -10856,7 +10870,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 {7,3,0,1,100},
 {0,0,0},1,
 {0,0,0},3,a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{28,
 {29,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -10903,8 +10917,8 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
 {34,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -10949,8 +10963,8 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
 {379,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -10995,7 +11009,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},1,0,0,0,3,3},5,77ffcc29-7f2d-4223-b22f-19666e7250ba,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},1,0,0,0,3,3},5,77ffcc29-7f2d-4223-b22f-19666e7250ba,
 {33,
 {291,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
 {0,
@@ -12971,7 +12985,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 {7,3,0,1,100},
 {0,0,0},1,
 {0,0,0},1,a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{28,
 {157,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -13016,7 +13030,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},1,0,0,0,3,3},3,77ffcc29-7f2d-4223-b22f-19666e7250ba,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},1,0,0,0,3,3},3,77ffcc29-7f2d-4223-b22f-19666e7250ba,
 {33,
 {159,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
 {0,
@@ -14633,7 +14647,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},3,3},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{28,
 {214,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -14680,7 +14694,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},1,0,1,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,1,0},1,0,1,
 {10,
 {210,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,0,0,"НастройкиРепозиторияРасширеннаяПодсказка",
 {1,0},
@@ -15932,7 +15946,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},0,3,3},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{28,
 {262,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -15977,7 +15991,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},1,0,1,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,1,0},1,0,1,
 {10,
 {217,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,0,0,"РаботаСЦелямиИКомпонентамиРасширеннаяПодсказка",
 {1,0},
@@ -16142,7 +16156,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},3,3},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{28,
 {355,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -16187,7 +16201,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},1,0,1,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,1,0},1,0,1,
 {10,
 {351,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,0,0,"СтруктураКомпонентРасширеннаяПодсказка",
 {1,0},
@@ -16344,7 +16358,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 {0}
 },0,0,0,1,
 {1,0},0,0,3,3,2,0,1,1},3,a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{28,
 {865,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -16389,7 +16403,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},77ffcc29-7f2d-4223-b22f-19666e7250ba,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,1,0},77ffcc29-7f2d-4223-b22f-19666e7250ba,
 {33,
 {817,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
 {0,
@@ -16424,7 +16438,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 {7,3,0,1,100},
 {0,0,0},1,
 {31,
-{3,0},0,0,2,2,1,2,2,2,2,2,1,1,2,2,
+{3,0},0,0,2,2,1,2,2,2,2,2,1,1,2,1,
 {"U"},
 {"U"},"",0,
 {4,0,
@@ -16434,7 +16448,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 {1,0},
 {1,0},2,0,0,
 {"Pattern"},1,
-{2,1960479b-4d89-4eba-8b39-0aa802020558,"РежимыИнтерфейса_Простой_КаталогFeatureФайловНачалоВыбора",b50dc41b-c15a-4ebe-a17f-d01e51c47de6,"РежимыИнтерфейса_Простой_КаталогFeatureФайловОчистка",0,0},
+{3,1960479b-4d89-4eba-8b39-0aa802020558,"РежимыИнтерфейса_Простой_КаталогFeatureФайловНачалоВыбора",ac5a9c5a-5f1d-4fc5-b88c-a187038c16d1,"РежимыИнтерфейса_Простой_КаталогFeatureФайловОткрытие",b50dc41b-c15a-4ebe-a17f-d01e51c47de6,"РежимыИнтерфейса_Простой_КаталогFeatureФайловОчистка",0,0},
 {3,4,
 {0}
 },
@@ -16485,7 +16499,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},3,3},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{28,
 {854,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -16530,7 +16544,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},1,0,1,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,1,0},1,0,1,
 {10,
 {853,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,0,0,"Группа1РасширеннаяПодсказка",
 {1,0},
@@ -16604,7 +16618,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 {7,3,0,1,100},
 {0,0,0},1,
 {0,0,0},5,a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{28,
 {863,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -16649,8 +16663,8 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
 {859,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -16695,8 +16709,8 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
 {861,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -16741,7 +16755,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},cd5394d0-7dda-4b56-8927-93ccbe967a01,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},cd5394d0-7dda-4b56-8927-93ccbe967a01,
 {21,
 {844,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
 {0,
@@ -16759,11 +16773,18 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },
 {7,3,0,1,100},
 {0,0,0},1,
-{6,
+{7,
 {4,1,
 {0,977e831a-0e73-4d60-af51-091a6fa8612e},"",-1,-1,1,0,""},
-{0},2,2},3,a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{0},2,2,0,0,
+{3,4,
+{0}
+},
+{3,4,
+{0}
+}
+},3,a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
 {848,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -16808,8 +16829,8 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
 {846,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -16854,8 +16875,8 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{28,
 {876,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -16900,7 +16921,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},1,0,1,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},1,0,1,
 {10,
 {845,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,0,0,"РежимыИнтерфейса_Простой_ДобавитьРасширеннаяПодсказка",
 {1,0},
@@ -16923,7 +16944,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},0,3,3},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{25,
+{28,
 {850,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -16968,7 +16989,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },0,1,2,
 {1,
 {1,0},0},0,0,1,0,0,1,0,3,3},
-{"U"},1,0,0,1,0,0,0,3,3,3},1,0,0,0,3,3},2,77ffcc29-7f2d-4223-b22f-19666e7250ba,
+{"U"},1,0,0,1,0,0,0,3,3,3,0,0,0,0},1,0,0,0,3,3},2,77ffcc29-7f2d-4223-b22f-19666e7250ba,
 {33,
 {856,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
 {0,
@@ -17434,7 +17455,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 {0}
 },
 {7,3,0,1,100},
-{0,0,0},1,
+{0,83,8},1,
 {4,50,10,1,1,0,
 {3,4,
 {0}
@@ -21003,7 +21024,10 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 &НаСервере
 Функция ПолучитьФайлВнешнейОбработки()
 	Файл = РеквизитФормыВЗначение(""Объект"").ИспользуемоеИмяФайла;
-	
+	Если Не ПустаяСтрока(Объект.ПредустановленноеИмяФайла) Тогда
+		Файл = Объект.ПредустановленноеИмяФайла;
+	КонецЕсли;
+
 	ВнешняяОбработка = ВнешниеОбработки.Создать(Файл, Ложь);
 	
 	Возврат Файл;
@@ -22740,6 +22764,13 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 		
 		ДанныеПринимающейСтроки = ИскомаяСтрока;
 	КонецЕсли;
+КонецПроцедуры
+
+&НаКлиенте
+Процедура РежимыИнтерфейса_Простой_КаталогFeatureФайловОткрытие(Элемент, СтандартнаяОбработка)
+	СтандартнаяОбработка = Ложь;
+	
+	ЗапуститьПриложение(РежимыИнтерфейса_Простой_КаталогFeatureФайлов);
 КонецПроцедуры
 
 #КонецОбласти
@@ -24628,47 +24659,48 @@ ZWZ0IHhzaTp0eXBlPSJkY3Njb3I6RmllbGQiPtCi0JfQodCx0L7RgNCw0KLRgNC1
 bXBhcmlzb25UeXBlPkZpbGxlZDwvY29tcGFyaXNvblR5cGU+DQoJCQkJPC9pdGVt
 Pg0KCQkJPC9maWx0ZXI+DQoJCQk8YXBwZWFyYW5jZT4NCgkJCQk8ZGNzY29yOml0
 ZW0geHNpOnR5cGU9IlNldHRpbmdzUGFyYW1ldGVyVmFsdWUiPg0KCQkJCQk8ZGNz
-Y29yOnBhcmFtZXRlcj5CYWNrQ29sb3I8L2Rjc2NvcjpwYXJhbWV0ZXI+DQoJCQkJ
-CTxkY3Njb3I6dmFsdWUgeHNpOnR5cGU9InY4dWk6Q29sb3IiPiNGRkE2QTY8L2Rj
-c2Nvcjp2YWx1ZT4NCgkJCQk8L2Rjc2NvcjppdGVtPg0KCQkJPC9hcHBlYXJhbmNl
-Pg0KCQk8L2l0ZW0+DQoJCTxpdGVtPg0KCQkJPHNlbGVjdGlvbj4NCgkJCQk8aXRl
-bT4NCgkJCQkJPGZpZWxkPtCg0LXQttC40LzRi9CY0L3RgtC10YDRhNC10LnRgdCw
-X9Cf0YDQvtGB0YLQvtC5X9Cf0YDQvtCy0L7QtNC90LjQujwvZmllbGQ+DQoJCQkJ
-PC9pdGVtPg0KCQkJPC9zZWxlY3Rpb24+DQoJCQk8ZmlsdGVyPg0KCQkJCTxpdGVt
-IHhzaTp0eXBlPSJGaWx0ZXJJdGVtQ29tcGFyaXNvbiI+DQoJCQkJCTxsZWZ0IHhz
-aTp0eXBlPSJkY3Njb3I6RmllbGQiPtCg0LXQttC40LzRi9CY0L3RgtC10YDRhNC1
-0LnRgdCwX9Cf0YDQvtGB0YLQvtC5X9Cf0YDQvtCy0L7QtNC90LjQui7QrdGC0L7Q
-mtCw0YLQsNC70L7QszwvbGVmdD4NCgkJCQkJPGNvbXBhcmlzb25UeXBlPkVxdWFs
-PC9jb21wYXJpc29uVHlwZT4NCgkJCQkJPHJpZ2h0IHhzaTp0eXBlPSJ4czpib29s
-ZWFuIj50cnVlPC9yaWdodD4NCgkJCQk8L2l0ZW0+DQoJCQk8L2ZpbHRlcj4NCgkJ
-CTxhcHBlYXJhbmNlPg0KCQkJCTxkY3Njb3I6aXRlbSB4c2k6dHlwZT0iU2V0dGlu
-Z3NQYXJhbWV0ZXJWYWx1ZSI+DQoJCQkJCTxkY3Njb3I6cGFyYW1ldGVyPkZvbnQ8
+Y29yOnBhcmFtZXRlcj7QptCy0LXRgtCk0L7QvdCwPC9kY3Njb3I6cGFyYW1ldGVy
+Pg0KCQkJCQk8ZGNzY29yOnZhbHVlIHhzaTp0eXBlPSJ2OHVpOkNvbG9yIj4jRkZB
+NkE2PC9kY3Njb3I6dmFsdWU+DQoJCQkJPC9kY3Njb3I6aXRlbT4NCgkJCTwvYXBw
+ZWFyYW5jZT4NCgkJPC9pdGVtPg0KCQk8aXRlbT4NCgkJCTxzZWxlY3Rpb24+DQoJ
+CQkJPGl0ZW0+DQoJCQkJCTxmaWVsZD7QoNC10LbQuNC80YvQmNC90YLQtdGA0YTQ
+tdC50YHQsF/Qn9GA0L7RgdGC0L7QuV/Qn9GA0L7QstC+0LTQvdC40Lo8L2ZpZWxk
+Pg0KCQkJCTwvaXRlbT4NCgkJCTwvc2VsZWN0aW9uPg0KCQkJPGZpbHRlcj4NCgkJ
+CQk8aXRlbSB4c2k6dHlwZT0iRmlsdGVySXRlbUNvbXBhcmlzb24iPg0KCQkJCQk8
+bGVmdCB4c2k6dHlwZT0iZGNzY29yOkZpZWxkIj7QoNC10LbQuNC80YvQmNC90YLQ
+tdGA0YTQtdC50YHQsF/Qn9GA0L7RgdGC0L7QuV/Qn9GA0L7QstC+0LTQvdC40Lou
+0K3RgtC+0JrQsNGC0LDQu9C+0LM8L2xlZnQ+DQoJCQkJCTxjb21wYXJpc29uVHlw
+ZT5FcXVhbDwvY29tcGFyaXNvblR5cGU+DQoJCQkJCTxyaWdodCB4c2k6dHlwZT0i
+eHM6Ym9vbGVhbiI+dHJ1ZTwvcmlnaHQ+DQoJCQkJPC9pdGVtPg0KCQkJPC9maWx0
+ZXI+DQoJCQk8YXBwZWFyYW5jZT4NCgkJCQk8ZGNzY29yOml0ZW0geHNpOnR5cGU9
+IlNldHRpbmdzUGFyYW1ldGVyVmFsdWUiPg0KCQkJCQk8ZGNzY29yOnBhcmFtZXRl
+cj7QqNGA0LjRhNGCPC9kY3Njb3I6cGFyYW1ldGVyPg0KCQkJCQk8ZGNzY29yOnZh
+bHVlIHhzaTp0eXBlPSJ2OHVpOkZvbnQiIHJlZj0ic3lzOkRlZmF1bHRHVUlGb250
+IiBib2xkPSJ0cnVlIiBpdGFsaWM9ImZhbHNlIiB1bmRlcmxpbmU9ImZhbHNlIiBz
+dHJpa2VvdXQ9ImZhbHNlIiBraW5kPSJXaW5kb3dzRm9udCIvPg0KCQkJCTwvZGNz
+Y29yOml0ZW0+DQoJCQk8L2FwcGVhcmFuY2U+DQoJCTwvaXRlbT4NCgkJPGl0ZW0+
+DQoJCQk8c2VsZWN0aW9uPg0KCQkJCTxpdGVtPg0KCQkJCQk8ZmllbGQ+0KDQtdC2
+0LjQvNGL0JjQvdGC0LXRgNGE0LXQudGB0LBf0J/RgNC+0YHRgtC+0Llf0J/RgNC+
+0LLQvtC00L3QuNC6PC9maWVsZD4NCgkJCQk8L2l0ZW0+DQoJCQk8L3NlbGVjdGlv
+bj4NCgkJCTxmaWx0ZXI+DQoJCQkJPGl0ZW0geHNpOnR5cGU9IkZpbHRlckl0ZW1D
+b21wYXJpc29uIj4NCgkJCQkJPGxlZnQgeHNpOnR5cGU9ImRjc2NvcjpGaWVsZCI+
+0KDQtdC20LjQvNGL0JjQvdGC0LXRgNGE0LXQudGB0LBf0J/RgNC+0YHRgtC+0Llf
+0J/RgNC+0LLQvtC00L3QuNC6LtCc0L7QtNC40YTQuNGG0LjRgNC+0LLQsNC9PC9s
+ZWZ0Pg0KCQkJCQk8Y29tcGFyaXNvblR5cGU+RXF1YWw8L2NvbXBhcmlzb25UeXBl
+Pg0KCQkJCQk8cmlnaHQgeHNpOnR5cGU9InhzOmJvb2xlYW4iPnRydWU8L3JpZ2h0
+Pg0KCQkJCTwvaXRlbT4NCgkJCTwvZmlsdGVyPg0KCQkJPGFwcGVhcmFuY2U+DQoJ
+CQkJPGRjc2NvcjppdGVtIHhzaTp0eXBlPSJTZXR0aW5nc1BhcmFtZXRlclZhbHVl
+Ij4NCgkJCQkJPGRjc2NvcjpwYXJhbWV0ZXI+0KbQstC10YLQotC10LrRgdGC0LA8
 L2Rjc2NvcjpwYXJhbWV0ZXI+DQoJCQkJCTxkY3Njb3I6dmFsdWUgeHNpOnR5cGU9
-InY4dWk6Rm9udCIgcmVmPSJzeXM6RGVmYXVsdEdVSUZvbnQiIGJvbGQ9InRydWUi
-IGl0YWxpYz0iZmFsc2UiIHVuZGVybGluZT0iZmFsc2UiIHN0cmlrZW91dD0iZmFs
+InY4dWk6Q29sb3IiPiNGRjAwMDA8L2Rjc2Nvcjp2YWx1ZT4NCgkJCQk8L2Rjc2Nv
+cjppdGVtPg0KCQkJCTxkY3Njb3I6aXRlbSB4c2k6dHlwZT0iU2V0dGluZ3NQYXJh
+bWV0ZXJWYWx1ZSI+DQoJCQkJCTxkY3Njb3I6cGFyYW1ldGVyPtCo0YDQuNGE0YI8
+L2Rjc2NvcjpwYXJhbWV0ZXI+DQoJCQkJCTxkY3Njb3I6dmFsdWUgeHNpOnR5cGU9
+InY4dWk6Rm9udCIgcmVmPSJzeXM6RGVmYXVsdEdVSUZvbnQiIGJvbGQ9ImZhbHNl
+IiBpdGFsaWM9ImZhbHNlIiB1bmRlcmxpbmU9InRydWUiIHN0cmlrZW91dD0iZmFs
 c2UiIGtpbmQ9IldpbmRvd3NGb250Ii8+DQoJCQkJPC9kY3Njb3I6aXRlbT4NCgkJ
-CTwvYXBwZWFyYW5jZT4NCgkJPC9pdGVtPg0KCQk8aXRlbT4NCgkJCTxzZWxlY3Rp
-b24+DQoJCQkJPGl0ZW0+DQoJCQkJCTxmaWVsZD7QoNC10LbQuNC80YvQmNC90YLQ
-tdGA0YTQtdC50YHQsF/Qn9GA0L7RgdGC0L7QuV/Qn9GA0L7QstC+0LTQvdC40Lo8
-L2ZpZWxkPg0KCQkJCTwvaXRlbT4NCgkJCTwvc2VsZWN0aW9uPg0KCQkJPGZpbHRl
-cj4NCgkJCQk8aXRlbSB4c2k6dHlwZT0iRmlsdGVySXRlbUNvbXBhcmlzb24iPg0K
-CQkJCQk8bGVmdCB4c2k6dHlwZT0iZGNzY29yOkZpZWxkIj7QoNC10LbQuNC80YvQ
-mNC90YLQtdGA0YTQtdC50YHQsF/Qn9GA0L7RgdGC0L7QuV/Qn9GA0L7QstC+0LTQ
-vdC40Lou0JzQvtC00LjRhNC40YbQuNGA0L7QstCw0L08L2xlZnQ+DQoJCQkJCTxj
-b21wYXJpc29uVHlwZT5FcXVhbDwvY29tcGFyaXNvblR5cGU+DQoJCQkJCTxyaWdo
-dCB4c2k6dHlwZT0ieHM6Ym9vbGVhbiI+dHJ1ZTwvcmlnaHQ+DQoJCQkJPC9pdGVt
-Pg0KCQkJPC9maWx0ZXI+DQoJCQk8YXBwZWFyYW5jZT4NCgkJCQk8ZGNzY29yOml0
-ZW0geHNpOnR5cGU9IlNldHRpbmdzUGFyYW1ldGVyVmFsdWUiPg0KCQkJCQk8ZGNz
-Y29yOnBhcmFtZXRlcj5UZXh0Q29sb3I8L2Rjc2NvcjpwYXJhbWV0ZXI+DQoJCQkJ
-CTxkY3Njb3I6dmFsdWUgeHNpOnR5cGU9InY4dWk6Q29sb3IiPiNGRjAwMDA8L2Rj
-c2Nvcjp2YWx1ZT4NCgkJCQk8L2Rjc2NvcjppdGVtPg0KCQkJCTxkY3Njb3I6aXRl
-bSB4c2k6dHlwZT0iU2V0dGluZ3NQYXJhbWV0ZXJWYWx1ZSI+DQoJCQkJCTxkY3Nj
-b3I6cGFyYW1ldGVyPkZvbnQ8L2Rjc2NvcjpwYXJhbWV0ZXI+DQoJCQkJCTxkY3Nj
-b3I6dmFsdWUgeHNpOnR5cGU9InY4dWk6Rm9udCIgcmVmPSJzeXM6RGVmYXVsdEdV
-SUZvbnQiIGJvbGQ9ImZhbHNlIiBpdGFsaWM9ImZhbHNlIiB1bmRlcmxpbmU9InRy
-dWUiIHN0cmlrZW91dD0iZmFsc2UiIGtpbmQ9IldpbmRvd3NGb250Ii8+DQoJCQkJ
-PC9kY3Njb3I6aXRlbT4NCgkJCTwvYXBwZWFyYW5jZT4NCgkJPC9pdGVtPg0KCTwv
-Y29uZGl0aW9uYWxBcHBlYXJhbmNlPg0KPC9TZXR0aW5ncz4=}
+CTwvYXBwZWFyYW5jZT4NCgkJPC9pdGVtPg0KCTwvY29uZGl0aW9uYWxBcHBlYXJh
+bmNlPg0KPC9TZXR0aW5ncz4=}
 },
 {0,0},
 {0,44,
