@@ -24,4 +24,8 @@ https://github.com/silverbulleters/vanessa-bdd-editor/milestones
 Расширение документации будет произведено в процессе выпуска релиза 1.0
 ```
 
+##Особенности
+
+* В данный момент работа поддерживается только с версии платформы 1С 8.3.6 и выше.
+
 [![ZenHub] (https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png)] (https://zenhub.io)
